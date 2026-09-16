@@ -1,6 +1,6 @@
 # Ayoola Timilehin Israel — Portfolio
 
-A responsive, dependency-free portfolio for Ayoola Timilehin Israel: mechatronics engineering student, intelligent systems builder and community impact leader.
+A responsive, dependency free portfolio for Ayoola Timilehin Israel: mechatronics engineering student, intelligent systems builder and community impact leader.
 
 ## View in VS Code
 
@@ -9,6 +9,13 @@ A responsive, dependency-free portfolio for Ayoola Timilehin Israel: mechatronic
 3. Right-click `index.html` and choose **Open with Live Server**.
 
 You can also open `index.html` directly in a browser. No npm installation or Docker setup is required.
+
+## Pages
+
+- `index.html` contains the cinematic homepage, projects, experience, impact and recognition.
+- `about.html` contains the personal and professional story.
+- `speaking.html` contains speaking, moderation and talks.
+- The Résumé navigation item opens the current Google Drive résumé.
 
 ## Add more images later
 
