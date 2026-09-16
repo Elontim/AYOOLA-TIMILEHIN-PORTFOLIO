@@ -12,9 +12,14 @@ You can also open `index.html` directly in a browser. No npm installation or Doc
 
 ## Pages
 
-- `index.html` contains the cinematic homepage, projects, experience, impact and recognition.
-- `about.html` contains the personal and professional story.
-- `speaking.html` contains speaking, moderation and talks.
+- `index.html` contains the cinematic homepage and navigation portal.
+- `about.html` contains the personal story, technical profile, fellowships and training.
+- `projects.html` contains selected engineering projects and interactive briefs.
+- `experience.html` contains professional and technical experience.
+- `impact.html` contains leadership, community impact and the growing gallery.
+- `recognition.html` contains awards, publications and research directions.
+- `speaking.html` contains speaking, moderation, talks and speaker biographies.
+- `contact.html` contains contact channels and collaboration areas.
 - The Résumé navigation item opens the current Google Drive résumé.
 
 ## Add more images later
