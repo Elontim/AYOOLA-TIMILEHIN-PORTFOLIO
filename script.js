@@ -75,6 +75,13 @@ const projectDetails = {
     body: 'A social innovation concept that makes recycling participation visible, rewarding and educational.',
     challenge: 'Environmental awareness often fails to translate into repeatable action because incentives and accessible learning are disconnected.',
     approach: 'Use QR based activity records, micro learning and reward loops to help schools and communities build practical recycling habits.'
+  },
+  surveillance: {
+    kicker: 'Robotics • Team engineering',
+    title: 'WiFi Surveillance Robot',
+    body: 'A mobile surveillance platform developed with more than 10 teammates for remote visual monitoring and navigation.',
+    challenge: 'Remote inspection needs a compact platform that can move through an environment and transmit useful visual information.',
+    approach: 'Integrate an ESP32 CAM, motor driver, geared motors, rechargeable power and a controllable mobile chassis through a collaborative hardware build.'
   }
 };
 
