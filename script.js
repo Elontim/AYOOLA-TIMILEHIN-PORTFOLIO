@@ -128,6 +128,15 @@ const projectDetails = {
     approach:
       "Connect modular wind generation, shared distribution and community scale productive loads through a model that can grow with local demand.",
   },
+  balancing: {
+    kicker: "Robotics • Control systems",
+    title: "Self Balancing Robot",
+    body: "A collaborative robotics prototype developed with more than 10 teammates to explore real time balance and motion control.",
+    challenge:
+      "Maintaining stability while responding quickly to changes in orientation and movement.",
+    approach:
+      "Combine sensing, control logic, mechanical assembly and iterative testing in a shared team build.",
+  },
 };
 
 const modal = document.querySelector("#project-modal");
